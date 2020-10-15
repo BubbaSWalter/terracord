@@ -61,7 +61,7 @@ namespace FragLand.TerracordPlugin.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to "has joined the server."
+        ///   Looks up a localized string similar to has joined the server..
         /// </summary>
         public static string PlayerJoinedString {
             get {
@@ -70,7 +70,7 @@ namespace FragLand.TerracordPlugin.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to "has left the server."
+        ///   Looks up a localized string similar to has left the server..
         /// </summary>
         public static string PlayerLeftString {
             get {
@@ -79,7 +79,7 @@ namespace FragLand.TerracordPlugin.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to "**:white_check_mark: Relay available.**".
+        ///   Looks up a localized string similar to **:white_check_mark: Terreria Server is back online.**.
         /// </summary>
         public static string RelayAvailableString {
             get {
@@ -88,7 +88,7 @@ namespace FragLand.TerracordPlugin.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to "**:octagonal_sign: Relay shutting down.**".
+        ///   Looks up a localized string similar to **:octagonal_sign: Terreria Server is going though some down time.**.
         /// </summary>
         public static string RelayShutdownString {
             get {

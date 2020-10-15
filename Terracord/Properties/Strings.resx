@@ -126,11 +126,11 @@
     <comment>Message sent to Discord text channel when a player leaves the Terraria server</comment>
   </data>
   <data name="RelayAvailableString" xml:space="preserve">
-    <value>**:white_check_mark: Relay available.**</value>
+    <value>**:white_check_mark: Terreria Server is back online.**</value>
     <comment>Message sent to Discord text channel when relay becomes available</comment>
   </data>
   <data name="RelayShutdownString" xml:space="preserve">
-    <value>**:octagonal_sign: Relay shutting down.**</value>
+    <value>**:octagonal_sign: Terreria Server is going though some down time.**</value>
     <comment>Message sent to Discord text channel when relay is shutting down</comment>
   </data>
 </root>
